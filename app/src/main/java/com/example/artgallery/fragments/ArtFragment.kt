@@ -1,4 +1,4 @@
-package com.example.artgallery
+package com.example.artgallery.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import com.example.artgallery.ArtData
+import com.example.artgallery.R
 
 class ArtFragment : Fragment() {
 
